@@ -83,3 +83,11 @@ Note:
 The directed graph is represented as an adjacency matrix, which is an n x n matrix where a[i][j] = 1 means person i knows person j while a[i][j] = 0 means the contrary.
 
 Remember that you won't have direct access to the adjacency matrix.
+
+
+#Problem 3 
+
+Alien Dictionary https://leetcode.com/problems/verifying-an-alien-dictionary/
+
+#Problem 4 
+Verify Alien Dictionary https://leetcode.com/problems/verifying-an-alien-dictionary/
